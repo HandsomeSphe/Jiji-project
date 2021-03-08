@@ -1,0 +1,34 @@
+//////////////// ALL COLOURS /////////////
+$primary--color--1: rgba(0,0,0,.51);
+$primary--color--2:rgba(0,0,0,.45);
+$primary--color--3:rgba(196,196,196,.42);
+$primary--color--4:rgb(196,196,196);
+$primary--color--5:rgb(229,229,229);
+$primary--color--6:rgb(255,255,255);
+$primary--color--7:rgba(229,229,229,.5);
+$primary--color--8:rgb(0,0,0);
+
+
+/////////////// ALL FONT FAMILIES  ///////////////
+
+$mainFont--1:Constantia;
+$secondFont--2:Roboto;
+$thirdFont--3:Cambria;
+
+///////////// Media quires //////////////
+
+$first--media--quirey:320px;
+$second--media--quirey:375px;
+$second--media--quirey:425px;
+
+
+$tertiary--first:768px;
+$tertiary--first:1024px;
+//$tertiary--first:1440px;
+///////////// ALL MIXINS ///////////////
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
